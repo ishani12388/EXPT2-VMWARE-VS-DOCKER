@@ -382,11 +382,6 @@ VM extra details: latency avg 8348.96 usec, disk utilisation 96.81%.
 
 Note: fio used the default `psync` engine, so the queue depth was capped at 1 even though `--iodepth=16` was given. This applies to both environments.
 
-## Graphs
-
-<img width="1321" height="896" alt="image" src="https://github.com/user-attachments/assets/ae7ac08d-f17d-4dbf-a147-6402f9b2a62e" />
-
-CPU and memory comparison (average of 10 runs):
 
 ## Statistical Analysis
 
